@@ -164,6 +164,9 @@ export function SuggestionsPage() {
           💡 Ingat, setiap perasaan adalah valid. Dengarkan dirimu sendiri dan lakukan yang terbaik untukmu.
         </p>
       </div>
+      <div className="mt-4 text-center text-xs text-gray-400">
+        © {new Date().getFullYear()} by pyrexfeel aka abdansyakuran
+      </div>
     </div>
   );
 }
